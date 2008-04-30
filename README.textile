@@ -1,0 +1,15 @@
+h1. Rolling With The Puches
+
+An agile workshop about technical debt
+
+h2. How to run it
+
+# Set a time for the iterations (between 5 and 20 minutes)
+# Begin!
+
+h2. Stories
+
+# Sell fruit!
+# Sell veggies!
+# Sell small fruits!
+# Sell ...
