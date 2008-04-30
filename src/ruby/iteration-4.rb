@@ -75,10 +75,6 @@ class Basket
   end
   
   def total
-    @products.inject(0) {|x,y| x + y.price }
-  end
-  
-  def total
     free_cucumbers_for_every_kg_of_tomatoes!
     @products.inject(0) {|x,y| x + y.price }
   end
