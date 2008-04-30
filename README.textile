@@ -7,56 +7,43 @@ Original idea by "Adewale Oshineye":http://www.oshineye.com, this one by "Carlos
 h2. How to run it
 
 # Make sure everyone has a pair and their development environments of choice fired up and ready to go
-<br/><br/>
-# Set a time for the iterations (between 5 and 20 minutes).
-<br/><br/>
+# Set a time for the iterations (between 5 and 20 minutes, but allow for at least 5 minutes for pairs to discuss the solution before the iteration starts). If you do 5+15 minute iterations, you need approximately 3.5 hours (and the retrospective could take a while).
+# Pair rotation rules: no developer stays on the same codebase for more than 2 iterations. Can be taken out, if the audience isn't familiar with pair programming, as this is not the main focus of the workshop
 # Begin!
-<br/><br/>
 # Be a bossy customer who doesn't care about technical implementations and wants their stories implemented *NOW*!
-<br/><br/>
 # Give people a really hard time if they don't finish a given story during the iteration it was in. Tell them how disappointed you are for not having hired a team good enough, etc. Ignore any complaints, but be extremely excited and reward teams or pairs that got it all done on time.
-<br/><br/>
 # Remember: you don't know anything about computers. Any technical difficulties the pairs might be having has to be ignored, and any clarifications regarding the stories can be boiled down to "Just do the simplest thing you can imagine, as long as you don't break my business, and as long as I get it delivered on time!"
 
 h2. Stories
 
-# Sell fruits!
+# Sell fruit!
 ** Bananas £1 ea
 ** Apples £2 ea
 ** Oranges £1.50 ea
-<br/><br/>
 # Sell veggies!
 ** Cucumbers £1 ea
 ** Lettuce £0.50 ea
 ** Aubergines £1.50 ea
-<br/><br/>
-# Sell small fruits!
+# Sell small fruit!
 ** Strawberries £1/kg
 ** Cherries £2/kg
 ** Raspberries £2/kg
-<br/><br/>
 # Sell *more*!
 ** 2 for £1 aubergines!
 ** *FREE* cucumber for every kg of tomatoes (£1 ea)!
-<br/><br/>
 # Stop selling veggies! Make room for more fruit!
 ** Apples £1 ea
 ** Blackberries £2/kg
 ** Cranberries £2/kg
 ** Plums £1.50 ea
-<br/><br/>
 # Sell *more*!
 ** £1 on grapefruits (otherwise, £1.50 ea) when you buy more than 3 oranges
-<br/><br/>
 # Taxes!
 ** Add 17.5% to all purchases
-<br/><br/>
 # Exports!
 ** No 17.5% VAT
 ** 5% export tax + £1 per purchase
-<br/><br/>
 # *REFACTOR! CLEAN UP! HURRY, CAUSE IT'S PROBABLY TOO LATE!*
-<br/><br/>
 # Retrospective
 ** What went well?
 ** What didn't?
