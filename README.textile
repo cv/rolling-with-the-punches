@@ -4,6 +4,13 @@ An agile workshop about technical debt
 
 Original idea by "Adewale Oshineye":http://www.oshineye.com, this one by "Carlos Villela":http://www.lixo.org. The latest version of this workshop can be found at "the GitHub repository":http://github.com/cv/rolling-with-the-punches.
 
+Included Ruby code in the repository is an example implementation, using some metaprogramming to create a little "DSL":http://en.wikipedia.org/wiki/Domain-specific_programming_language, like this:
+
+bq. <pre>  product :Banana, 1.00.each
+  product :Aubergine, 2.for(1.00)</pre>
+
+Other example implementations and feedback extremely welcome.
+
 h2. How to run it
 
 # Make sure everyone has a pair and their development environments of choice fired up and ready to go.
