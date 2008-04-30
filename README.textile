@@ -6,8 +6,8 @@ Original idea by "Adewale Oshineye":http://www.oshineye.com, this one by "Carlos
 
 Included Ruby code in the repository is an example implementation, using some metaprogramming to create a little "DSL":http://en.wikipedia.org/wiki/Domain-specific_programming_language, like this:
 
-<pre>  product :Banana, 1.00.each
-  product :Aubergine, 2.for(1.00)</pre>
+<pre>product :Banana, 1.00.each
+product :Aubergine, 2.for(1.00)</pre>
 
 Other example implementations and feedback extremely welcome.
 
