@@ -1,15 +1,63 @@
-h1. Rolling With The Puches
+h1. Rolling With The Punches
 
 An agile workshop about technical debt
 
+Original idea by "Adewale Oshineye":http://www.oshineye.com, this one by "Carlos Villela":http://www.lixo.org. The latest version of this workshop can be found at "the GitHub repository":http://github.com/cv/rolling-with-the-punches.
+
 h2. How to run it
 
-# Set a time for the iterations (between 5 and 20 minutes)
+# Make sure everyone has a pair and their development environments of choice fired up and ready to go
+<br/><br/>
+# Set a time for the iterations (between 5 and 20 minutes).
+<br/><br/>
 # Begin!
+<br/><br/>
+# Be a bossy customer who doesn't care about technical implementations and wants their stories implemented *NOW*!
+<br/><br/>
+# Give people a really hard time if they don't finish a given story during the iteration it was in. Tell them how disappointed you are for not having hired a team good enough, etc. Ignore any complaints, but be extremely excited and reward teams or pairs that got it all done on time.
+<br/><br/>
+# Remember: you don't know anything about computers. Any technical difficulties the pairs might be having has to be ignored, and any clarifications regarding the stories can be boiled down to "Just do the simplest thing you can imagine, as long as you don't break my business, and as long as I get it delivered on time!"
 
 h2. Stories
 
-# Sell fruit!
+# Sell fruits!
+** Bananas £1 ea
+** Apples £2 ea
+** Oranges £1.50 ea
+<br/><br/>
 # Sell veggies!
+** Cucumbers £1 ea
+** Lettuce £0.50 ea
+** Aubergines £1.50 ea
+<br/><br/>
 # Sell small fruits!
-# Sell ...
+** Strawberries £1/kg
+** Cherries £2/kg
+** Raspberries £2/kg
+<br/><br/>
+# Sell *more*!
+** 2 for £1 aubergines!
+** *FREE* cucumber for every kg of tomatoes (£1 ea)!
+<br/><br/>
+# Stop selling veggies! Make room for more fruit!
+** Apples £1 ea
+** Blackberries £2/kg
+** Cranberries £2/kg
+** Plums £1.50 ea
+<br/><br/>
+# Sell *more*!
+** £1 on grapefruits (otherwise, £1.50 ea) when you buy more than 3 oranges
+<br/><br/>
+# Taxes!
+** Add 17.5% to all purchases
+<br/><br/>
+# Exports!
+** No 17.5% VAT
+** 5% export tax + £1 per purchase
+<br/><br/>
+# *REFACTOR! CLEAN UP! HURRY, CAUSE IT'S PROBABLY TOO LATE!*
+<br/><br/>
+# Retrospective
+** What went well?
+** What didn't?
+** What would you do differently?
