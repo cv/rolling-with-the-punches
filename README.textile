@@ -7,11 +7,12 @@ Original idea by "Adewale Oshineye":http://www.oshineye.com, this one by "Carlos
 h2. How to run it
 
 # Make sure everyone has a pair and their development environments of choice fired up and ready to go
-# Set a time for the iterations (between 5 and 20 minutes, but allow for at least 5 minutes for pairs to discuss the solution before the iteration starts). If you do 5+15 minute iterations, you need approximately 3.5 hours (and the retrospective could take a while).
+# Set a time for the iterations (between 5 and 20 minutes, but allow for at least 5 minutes for pairs to discuss the solution before the iteration starts). If you do 5+15 minute iterations, you need approximately 3.5 hours (and the retrospective could take a while)
 # Pair rotation rules: no developer stays on the same codebase for more than 2 iterations. Can be taken out, if the audience isn't familiar with pair programming, as this is not the main focus of the workshop
+# Prepare people for failure. There will be a lot of it, and this exercise can bruise egos - make sure everyone understands that failure is where we're trying to get, so we can learn from it in a safe environment
 # Begin!
 # Be a bossy customer who doesn't care about technical implementations and wants their stories implemented *NOW*!
-# Give people a really hard time if they don't finish a given story during the iteration it was in. Tell them how disappointed you are for not having hired a team good enough, etc. Ignore any complaints, but be extremely excited and reward teams or pairs that got it all done on time.
+# Give people a really hard time if they don't finish a given story during the iteration it was in. Tell them how disappointed you are for not having hired a team good enough, etc. Ignore any complaints, but be extremely excited and reward teams or pairs that got it all done on time
 # Remember: you don't know anything about computers. Any technical difficulties the pairs might be having has to be ignored, and any clarifications regarding the stories can be boiled down to "Just do the simplest thing you can imagine, as long as you don't break my business, and as long as I get it delivered on time!"
 
 h2. Stories
