@@ -51,6 +51,7 @@ h2. Stories
 # Exports!
 ** No 17.5% VAT
 ** 5% export tax + £1 per purchase
+** No deals or promotions apply
 # *REFACTOR! CLEAN UP! HURRY, CAUSE IT'S PROBABLY TOO LATE!*
 # Retrospective
 ** What went well?
